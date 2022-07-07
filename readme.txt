@@ -28,3 +28,5 @@ In the CSV code, it could transfer all monthly python dictionaries into a CSV fi
 a. the percentage of positive/neutral/negative tweets of that month
 b. converts date string into date type data
 
+[1]"NLTK :: Natural Language Toolkit", Nltk.org, 2022. [Online]. Available: https://www.nltk.org/. [Accessed: May- 2022].
+[2]"Python | Sentiment Analysis using VADER - GeeksforGeeks", GeeksforGeeks, 2021. [Online]. Available: https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/#:~:text=The%20Compound%20score%20is%20a,1%20(most%20extreme%20positive). [Accessed: 06- Jun- 2022].
